@@ -7,7 +7,7 @@
 ## 📌 Project Overview
 A smart, demand-actuated traffic light controller built with C++ for the Arduino platform. Instead of relying on traditional, execution-blocking time delays, this system utilizes an **Asynchronous Finite State Machine (FSM)**. 
 
-It dynamically monitors a side-road via an HC-SR04 ultrasonic sensor and triggers state transitions in real-time while maintaining strict fairness cooldowns for the main traffic artery.
+It dynamically monitors a side-road via an HC-SR04 ultrasonic sensor and triggers state transitions in real-time while maintaining strict fairness cooldowns for the main traffic road.
 
 ## 🎬 Demonstration
 *(Watch the system execute non-blocking, edge-triggered state transitions)*
