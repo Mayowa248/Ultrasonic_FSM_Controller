@@ -12,7 +12,7 @@ It dynamically monitors a side-road via an HC-SR04 ultrasonic sensor and trigger
 ## 🎬 Demonstration
 *(Watch the system execute non-blocking, edge-triggered state transitions)*
 
-![Traffic System Demo](./Simulation_demo_mp4) 
+![Traffic System Demo](./Simulation_demo.mp4) 
 > *Note: Simulation recorded in Tinkercad.*
 
 ## ⚙️ Core Engineering Features
